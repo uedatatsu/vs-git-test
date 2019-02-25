@@ -4,9 +4,11 @@
 #include "pch.h"
 #include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!     \n"; 
+int main() {
+	std::cout << "Hello World!" << std::endl;
+	std::cout << "Let's commit!" << std::endl;
+	std::cout << "Now branch is master!" << std::endl;
+	return 0;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
